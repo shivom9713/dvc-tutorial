@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\XM891JZ\AppData\Local\Temp\DVC_temp_storage\
